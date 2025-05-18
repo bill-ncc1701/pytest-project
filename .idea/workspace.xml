@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="Criação do caso para realizar uma compra.">
-      <change afterPath="$PROJECT_DIR$/tests/test_simulacao_pytest.py" afterDir="false" />
+    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="Backup dos arquivos de testes originais">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_valido.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_realizar_compra.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_realizar_compra.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test_simulacao_pytest.TestSimulacao.test_sumulacao_1.executor": "Run",
+    "Python tests.Python tests for test_simulacao_pytest.TestSimulacao.test_sumulacao_2.executor": "Run",
     "Python tests.Python tests in test_realizar_compra.py.executor": "Run",
     "Python.test_login_valido.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,6 +56,44 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_simulacao_pytest.TestSimulacao.test_sumulacao_1">
+    <configuration name="Python tests for test_simulacao_pytest.TestSimulacao.test_sumulacao_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pytest-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_simulacao_pytest.TestSimulacao.test_sumulacao_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_simulacao_pytest.TestSimulacao.test_sumulacao_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pytest-project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_simulacao_pytest.TestSimulacao.test_sumulacao_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_simulacao_pytest.TestSimulacao.test_sumulacao_1" />
+        <item itemvalue="Python tests.Python tests for test_simulacao_pytest.TestSimulacao.test_sumulacao_2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +125,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747569498578</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criação do primeiro teste com Pytest">
+      <option name="closed" value="true" />
+      <created>1747570627962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747570627962</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criacao do conftest.py">
+      <option name="closed" value="true" />
+      <created>1747571884953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747571884953</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Backup dos arquivos de testes originais">
+      <option name="closed" value="true" />
+      <created>1747571947488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747571947488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +166,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação do caso de teste de login" />
     <MESSAGE value="Criação do caso para realizar uma compra." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação do caso para realizar uma compra." />
+    <MESSAGE value="Criação do primeiro teste com Pytest" />
+    <MESSAGE value="Criacao do conftest.py" />
+    <MESSAGE value="Backup dos arquivos de testes originais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backup dos arquivos de testes originais" />
   </component>
 </project>
