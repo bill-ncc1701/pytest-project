@@ -80,6 +80,3 @@ class TestCT02:
 
         #Testa se caiu na tela de finalização
         assert driver.find_element(By.XPATH,"//h2[@class='complete-header' ]").is_displayed() , "Não foi possível encontrar a tela de finalização"
-
-        time.sleep(2)
-
