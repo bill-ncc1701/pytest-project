@@ -7,7 +7,7 @@ from conftest import driver
 
 @pytest.mark.usefixtures("setup_teardown")
 class TestCT01:
-    def test_login_valido(self):
+    def test_ct01_login_valido(self):
         # Fazendo o Login
         driver.find_element(By.ID, "user-name").send_keys("standard_user")
         driver.find_element(By.ID, "password").send_keys("secret_sauce")

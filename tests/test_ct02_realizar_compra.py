@@ -9,7 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 @pytest.mark.usefixtures("setup_teardown")
 class TestCT02:
-    def test_realizar_compra(self):
+    def test_ct02_realizar_compra(self):
         # Realizando uma compra no site
         driver.find_element(By.ID, "user-name").send_keys("standard_user")
         driver.find_element(By.ID, "password").send_keys("secret_sauce")
