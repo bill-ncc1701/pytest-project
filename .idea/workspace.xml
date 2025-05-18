@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="fix">
-      <change afterPath="$PROJECT_DIR$/tests/test_login_invalido.py" afterDir="false" />
+    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="fix conftest import">
+      <change beforePath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +181,39 @@
       <option name="project" value="LOCAL" />
       <updated>1747572533063</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Criação do teste para login inválido.">
+      <option name="closed" value="true" />
+      <created>1747572640521</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747572640521</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refatoração nos nomes dos casos de teste.">
+      <option name="closed" value="true" />
+      <created>1747572750457</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747572750457</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refatoração nos nomes dos casos de teste.">
+      <option name="closed" value="true" />
+      <created>1747572805824</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747572805824</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix conftest import">
+      <option name="closed" value="true" />
+      <created>1747572986127</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747572986128</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +236,9 @@
     <MESSAGE value="Refatoração do Logon com Pytest" />
     <MESSAGE value="Refatoração da compra com Pytest" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="Criação do teste para login inválido." />
+    <MESSAGE value="refatoração nos nomes dos casos de teste." />
+    <MESSAGE value="fix conftest import" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix conftest import" />
   </component>
 </project>
