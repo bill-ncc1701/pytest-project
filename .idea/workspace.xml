@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="fix conftest import">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="add smoke mark">
       <change beforePath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_simulacao_pytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_simulacao_pytest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +220,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747573111716</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fix conftest import">
+      <option name="closed" value="true" />
+      <created>1747574863055</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747574863055</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add smoke mark">
+      <option name="closed" value="true" />
+      <created>1747575378722</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1747575378722</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +262,7 @@
     <MESSAGE value="Criação do teste para login inválido." />
     <MESSAGE value="refatoração nos nomes dos casos de teste." />
     <MESSAGE value="fix conftest import" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix conftest import" />
+    <MESSAGE value="add smoke mark" />
+    <option name="LAST_COMMIT_MESSAGE" value="add smoke mark" />
   </component>
 </project>
