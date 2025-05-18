@@ -1,11 +1,13 @@
 # Fazer o Login
 import time
 from asyncio import wait_for
+
+import pytest
 from selenium.webdriver.common.by import By
 from conftest import driver
 from selenium.webdriver.support.wait import WebDriverWait
 
-
+@pytest.mark.usefixtures("setup_teardown")
 class TestCT02:
     def test_realizar_compra(self):
         # Realizando uma compra no site

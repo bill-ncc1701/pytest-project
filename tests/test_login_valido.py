@@ -1,9 +1,11 @@
 import time
 
+import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from conftest import driver
 
+@pytest.mark.usefixtures("setup_teardown")
 class TestCT01:
     def test_login_valido(self):
         # Fazendo o Login

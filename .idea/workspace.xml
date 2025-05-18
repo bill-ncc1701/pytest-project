@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="Refatoração do Logon com Pytest">
+    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="Refatoração da compra com Pytest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_valido.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_realizar_compra.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_realizar_compra.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747572155030</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Refatoração da compra com Pytest">
+      <option name="closed" value="true" />
+      <created>1747572292524</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747572292525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Refatoração da compra com Pytest">
+      <option name="closed" value="true" />
+      <created>1747572398726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747572398732</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +194,7 @@
     <MESSAGE value="Criacao do conftest.py" />
     <MESSAGE value="Backup dos arquivos de testes originais" />
     <MESSAGE value="Refatoração do Logon com Pytest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refatoração do Logon com Pytest" />
+    <MESSAGE value="Refatoração da compra com Pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatoração da compra com Pytest" />
   </component>
 </project>
