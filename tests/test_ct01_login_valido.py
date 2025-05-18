@@ -7,6 +7,7 @@ import conftest
 
 @pytest.mark.usefixtures("setup_teardown")
 @pytest.mark.loginValido
+@pytest.mark.smoke
 class TestCT01:
     def test_ct01_login_valido(self):
         # Fazendo o Login
