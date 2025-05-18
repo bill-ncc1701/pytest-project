@@ -9,6 +9,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
 @pytest.mark.usefixtures("setup_teardown")
+@pytest.mark.realizarCompra
 class TestCT02:
     def test_ct02_realizar_compra(self):
         # Realizando uma compra no site

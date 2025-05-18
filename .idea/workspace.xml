@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="fix conftest import">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_simulacao_pytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_simulacao_pytest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747572986128</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix conftest import">
+      <option name="closed" value="true" />
+      <created>1747573111716</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747573111716</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
