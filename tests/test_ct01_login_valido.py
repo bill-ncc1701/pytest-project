@@ -21,5 +21,6 @@ class TestCT01:
         login_page = LoginPage()
         login_page.fazer_login("standard_user","secret_sauce")
 
+        # Verificando se o login foi realizado com sucesso
         assert driver.find_element(By.XPATH,"//span[@class='title']").is_displayed()
 
