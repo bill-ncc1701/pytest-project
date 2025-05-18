@@ -1,8 +1,6 @@
 # Fazer o Login
 import time
 from asyncio import wait_for
-
-
 from selenium.webdriver.common.by import By
 from conftest import driver
 from selenium.webdriver.support.wait import WebDriverWait
