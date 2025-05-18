@@ -1,16 +1,18 @@
 # Fazer o Login
 import time
-from asyncio import wait_for
-
 import pytest
+import conftest
 from selenium.webdriver.common.by import By
-from conftest import driver
+
+
+
 from selenium.webdriver.support.wait import WebDriverWait
 
 @pytest.mark.usefixtures("setup_teardown")
 class TestCT02:
     def test_ct02_realizar_compra(self):
         # Realizando uma compra no site
+        driver = conftest.driver
         driver.find_element(By.ID, "user-name").send_keys("standard_user")
         driver.find_element(By.ID, "password").send_keys("secret_sauce")
         driver.find_element(By.ID, "login-button").click()
