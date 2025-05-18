@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="usando page object">
+    <list default="true" id="a118e3e1-57cf-44ce-8395-7b91984a6810" name="Changes" comment="usando Login Page object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct01_login_valido.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct02_realizar_compra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ct03_login_invalido.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747578098060</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="usando Login Page object">
+      <option name="closed" value="true" />
+      <created>1747578516759</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747578516759</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,6 +297,7 @@
     <MESSAGE value="update workspace.xml" />
     <MESSAGE value="criacao do login_page" />
     <MESSAGE value="usando page object" />
-    <option name="LAST_COMMIT_MESSAGE" value="usando page object" />
+    <MESSAGE value="usando Login Page object" />
+    <option name="LAST_COMMIT_MESSAGE" value="usando Login Page object" />
   </component>
 </project>
